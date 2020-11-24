@@ -8,3 +8,6 @@ El cronograma propuesto sería:
 * 10 días de estructuras de datos
 * 10 días de algoritmos particulares
 * 10 días sobre conceptos de API
+
+## Patrones de diseño:
+* [#1 Singleton](https://github.com/rlgino/hundred-days-of-code/pull/1)
