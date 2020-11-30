@@ -9,10 +9,10 @@ import (
 
 func main() {
 	factory := mobileinterface.New()
-	btnMobile := factory.CreateButton()
-	btnMobile.Draw()
+	mobileBtn := factory.CreateButton()
+	mobileBtn.Draw()
 	fmt.Println("Click ==>")
-	btnMobile.Click()
+	mobileBtn.Click()
 
 	fmt.Println()
 
