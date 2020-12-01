@@ -14,3 +14,4 @@ El cronograma propuesto sería:
 * [#2 Observer](https://github.com/rlgino/hundred-days-of-code/tree/master/patterns/observer): [Pull Request de los cambios](https://github.com/rlgino/hundred-days-of-code/pull/2)
 * [#3 Bridge](https://github.com/rlgino/hundred-days-of-code/tree/master/patterns/bridge): [Pull Request de los cambios](https://github.com/rlgino/hundred-days-of-code/pull/3)
 * [#4 Factory](https://github.com/rlgino/hundred-days-of-code/tree/master/patterns/factory): [Pull Request de los cambios](https://github.com/rlgino/hundred-days-of-code/pull/4)
+* [#5 Strategy](https://github.com/rlgino/hundred-days-of-code/tree/master/patterns/strategy): [Pull Request de los cambios](https://github.com/rlgino/hundred-days-of-code/pull/5)
