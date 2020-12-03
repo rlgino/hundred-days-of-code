@@ -16,3 +16,4 @@ El cronograma propuesto sería:
 * [#4 Factory](https://github.com/rlgino/hundred-days-of-code/tree/master/patterns/factory): [Pull Request de los cambios](https://github.com/rlgino/hundred-days-of-code/pull/4)
 * [#5 Strategy](https://github.com/rlgino/hundred-days-of-code/tree/master/patterns/strategy): [Pull Request de los cambios](https://github.com/rlgino/hundred-days-of-code/pull/5)
 * [#6 Adapter](https://github.com/rlgino/hundred-days-of-code/tree/master/patterns/adapter): [Pull Request de los cambios](https://github.com/rlgino/hundred-days-of-code/pull/6)
+* [#7 Builder](https://github.com/rlgino/hundred-days-of-code/tree/master/patterns/builder): [Pull Request de los cambios](https://github.com/rlgino/hundred-days-of-code/pull/7)
