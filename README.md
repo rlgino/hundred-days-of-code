@@ -18,3 +18,4 @@ El cronograma propuesto sería:
 * [#6 Adapter](https://github.com/rlgino/hundred-days-of-code/tree/master/patterns/adapter): [Pull Request de los cambios](https://github.com/rlgino/hundred-days-of-code/pull/6)
 * [#7 Builder](https://github.com/rlgino/hundred-days-of-code/tree/master/patterns/builder): [Pull Request de los cambios](https://github.com/rlgino/hundred-days-of-code/pull/7)
 * [#8 Command](https://github.com/rlgino/hundred-days-of-code/tree/master/patterns/command): [Pull Request de los cambios](https://github.com/rlgino/hundred-days-of-code/pull/8)
+* [#9 Facade](https://github.com/rlgino/hundred-days-of-code/tree/master/patterns/facade): [Pull Request de los cambios](https://github.com/rlgino/hundred-days-of-code/pull/9)
